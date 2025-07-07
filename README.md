@@ -36,3 +36,5 @@ git clone https://github.com/Raghad1110/led-buttons-task.git
 
 For a step-by-step guide on how the project works, you can watch the explanation video below:
 https://github.com/Raghad1110/led-buttons-task/blob/main/Task.mp4
+
+https://github.com/Raghad1110/led-buttons-task/blob/main/photo%20work.jpg
