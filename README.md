@@ -31,3 +31,7 @@ git clone https://github.com/Raghad1110/led-buttons-task.git
 # How It Works
  • When the button is pressed, the state of the LED is toggled (on or off).
  • This project demonstrates basic GPIO usage with physical components.
+
+# Video Tutorial
+
+For a step-by-step guide on how the project works, you can watch the explanation video below:
